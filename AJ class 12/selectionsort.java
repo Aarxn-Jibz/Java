@@ -1,0 +1,15 @@
+for(i=0;i<m;i++)
+{
+    small=ar[i];
+    pos=i;
+    for(j=i+1;j<n;j++)
+    {
+        if(ar[j]<small)
+        {
+            small=ar[j];
+            pos=j;
+        }
+    }
+    ar[pos]=ar[i];
+    ar[i]=small;
+}
