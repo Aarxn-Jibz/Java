@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DynamicArray
+comment1.params=
+comment1.target=DynamicArray()
+comment2.params=data
+comment2.target=void\ add(int)
+comment3.params=
+comment3.target=void\ growSize()
+comment4.params=
+comment4.target=void\ shrinkSize()
+comment5.params=index\ data
+comment5.target=void\ addAt(int,\ int)
+comment6.params=
+comment6.target=void\ remove()
+comment7.params=index
+comment7.target=void\ removeAt(int)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

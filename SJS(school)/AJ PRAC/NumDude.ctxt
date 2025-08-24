@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NumDude
+comment1.params=
+comment1.target=NumDude()
+comment2.params=
+comment2.target=void\ input()
+comment3.params=x
+comment3.target=int\ SumDigits(int)
+comment4.params=
+comment4.target=void\ isDude()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
